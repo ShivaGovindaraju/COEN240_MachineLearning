@@ -1,2 +1,3 @@
-# coen240-sp20
-Class repo for COEN 240, Machine Learning, Spring 2020
+# COEN240_MachineLearning
+Santa Clara University COEN 240 Machine Learning
+
